@@ -49,6 +49,22 @@ Future Improvements (Ideas):
 📄 Save output to a .txt or .csv file
 
 
+🛠️👣 How to Try This Project (Step-by-Step)
+If someone wants to run this project on their own system, here's how:
+1️⃣ Go to this project’s GitHub page.
+2️⃣ Click the green “Code” button → choose “Download ZIP”
+3️⃣ Extract the ZIP file on your computer.
+4️⃣ Open a terminal (Command Prompt, PowerShell, or Linux terminal).
+5️⃣ Navigate into the project folder:
+ cd path/to/simple_port_scanner
+
+6️⃣ Check Python is installed:
+ python3 --version
+python3 port_scanner.py <target_host> <target_port>
+
+📌 If you're on Windows and python3 doesn't work, try just python.
+
+
 ⚠️ Disclaimer:
 
 This tool is created for educational purposes only.
